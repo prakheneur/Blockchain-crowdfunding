@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "hardhat-fund-me-fcc",
+			"path": "hardhat-fund-me-fcc"
+		}
+	],
+	"settings": {}
+}
